@@ -29,3 +29,13 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Additional files
+.DS_Store
+*/.DS_Store
+app/.DS_Store
+config/.DS_Store
+db/.DS_Store
+public/.DS_Store
+tmp/.DS_Store
+test/.DS_Store
